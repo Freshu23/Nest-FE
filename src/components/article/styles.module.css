@@ -1,0 +1,14 @@
+.card {
+  background-color: white;
+  color: #242424;
+}
+.createdAt {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  color: #5a5a5a;
+}
+.icon {
+  color: #5a5a5a;
+  margin-right: 8px;
+}
